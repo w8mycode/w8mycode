@@ -1,5 +1,5 @@
 ## Hi There, I'm Damir :wave:
-:seedling: I'm currently learning **JS / FRONT-END** at [RS School](https://rs.school/) ([you can join for free](https://app.rs.school/registry/student?course=js-fe-2023Q4))
+:seedling: I'm currently learning **JS / FRONT-END** at [RS School](https://rs.school/) ([you can join course for free](https://app.rs.school/registry/student?course=js-fe-2023Q4))
 
 
 :triangular_flag_on_post: I have basic knowledge in:
