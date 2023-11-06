@@ -2,7 +2,7 @@
 :seedling: I'm currently learning **JS / FRONT-END** at [RS School](https://rs.school/) ([you can join course for free](https://app.rs.school/registry/student?course=js-fe-2023Q4))
 
 
-:triangular_flag_on_post: I have basic knowledge in:
+:triangular_flag_on_post: I have basic knowledge of:
 
 
 <a href="https://www.javascript.com"><code><img alt="JavaScript" height="40px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code></a>
