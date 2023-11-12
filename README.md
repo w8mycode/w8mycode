@@ -12,6 +12,6 @@
 
 #### small projects at rsschool:
 
-<sup>helper for core-js tasks<sup>
+<sup>:ballot_box_with_check: helper for core-js tasks<sup>
 [<sup>deploy</sup>](https://w8mycode.github.io/idk-what-core-js-want/)
 [<sup>code</sup>](https://github.com/w8mycode/idk-what-core-js-want)
